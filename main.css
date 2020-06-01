@@ -1,0 +1,32 @@
+.wrapper {
+  padding-top: 4rem;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.quote {
+  font-family: "times new roman";
+  font-size: 2.5rem;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  
+}
+body {
+  width: 100%;
+  height: 100vh;
+  background:;
+  background-size: cover;
+  color: black;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+}
+
